@@ -1,0 +1,12 @@
+{
+    "ID":"61c15660-fbc9-4706-9c74-705c50276523",
+    "ActionKeyword":"cc",
+    "Name":"Currency Converter",
+    "Description":"Convert currency by format as <source> <des> <amount>",
+    "Author":"Fred Zhou",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"https://github.com/genauzhou88/wox_plugin",
+    "IcoPath":"Images\\app.png",
+    "ExecuteFileName":"main.py"
+}
